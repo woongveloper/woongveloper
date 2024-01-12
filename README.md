@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋
+## 🌱 SSAFY(Seoul/#2) - Python
+>2024.01.02 ~
 
 <!--
 **woongveloper/woongveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
