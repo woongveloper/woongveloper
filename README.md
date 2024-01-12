@@ -1,4 +1,4 @@
-# 👋
+# 👋 Jiwoong Han
 ## 🌱 SSAFY(Seoul/#2) - Python
 >2024.01.02 ~
 
