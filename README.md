@@ -1,4 +1,10 @@
 # 👋 Jiwoong Han
+```
+Material Science & Engineering
+
+📫woongveloper98@gmail.com
+```
+
 ## 🌱 SSAFY(Seoul/#2) - Python
 >2024.01.02 ~
 
