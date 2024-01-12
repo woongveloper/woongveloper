@@ -1,14 +1,14 @@
-# 👋 Jiwoong Han
+# 💻 Jiwoong Han
 ```
-Material Science & Engineering
+🎓 Material Science & Engineering - Hongik Univ.
 
-📫woongveloper98@gmail.com
+📨 woongveloper98@gmail.com
 ```
 
 ## 🌱 SSAFY(Seoul/#2) - Python
 >2024.01.02 ~
 
-## 📕 Notion
+## 📝 Notion
 [https://www.notion.so/Woong-a66573ca9395452b9ea49aa59199b731]
 
 <!--
