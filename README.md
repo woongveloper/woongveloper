@@ -9,7 +9,7 @@
 
 ## 🌱 SSAFY(Seoul/#2) - Python
 >2024.01.02 ~
-
+> [TIL](https://github.com/woongveloper/TIL/blob/59680a649d652d35d0e523ee935e3e3e59a73fd4/README.md)
 ## 📝 Notion
 [https://www.notion.so/Woong-a66573ca9395452b9ea49aa59199b731]
 
