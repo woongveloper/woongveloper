@@ -1,5 +1,5 @@
 # 💻 Jiwoong Han
-![한지웅_증명사진](https://github.com/woongveloper/woongveloper/assets/156386797/0436ec32-2e93-4f25-999d-cca231f12be8)
+
 
 ```
 🎓 Material Science & Engineering - Hongik Univ.
